@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  task: MyText
+  date: 2020-05-26 17:38:21
+  category: MyString
+  done: false
+  comment: MyText
+
+two:
+  task: MyText
+  date: 2020-05-26 17:38:21
+  category: MyString
+  done: false
+  comment: MyText
